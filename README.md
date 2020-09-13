@@ -1,2 +1,2 @@
 # projeto-iniciante-react
-Aula da aula com  iniciação ao react
+Aula da alura com  iniciação ao react
